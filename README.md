@@ -80,10 +80,13 @@ The app organizes your financial transactions into **local and cloud-synced view
 
 ## 📸 App Screenshots
 
-| Splash | Login | Signup | Profile | Transactions (offline) | Transactions (online) | Add Transactions |
-| ------ | ----- | ------ | ------- | -------------------- | ------------------- | ---------------- |
-| <img src="https://github.com/user-attachments/assets/2bc904bb-64c5-4d99-8b25-183f21f50917" width="120" height="240" /> | <img src="https://github.com/user-attachments/assets/2bc904bb-64c5-4d99-8b25-183f21f50917" width="120" height="240" /> | <img src="https://github.com/user-attachments/assets/2bc904bb-64c5-4d99-8b25-183f21f50917" width="120" height="240" /> | <img src="https://github.com/user-attachments/assets/2bc904bb-64c5-4d99-8b25-183f21f50917" width="120" height="240" /> | <img src="https://github.com/user-attachments/assets/2bc904bb-64c5-4d99-8b25-183f21f50917" width="120" height="240" /> | <img src="https://github.com/user-attachments/assets/2bc904bb-64c5-4d99-8b25-183f21f50917" width="120" height="240" /> | <img src="https://github.com/user-attachments/assets/2bc904bb-64c5-4d99-8b25-183f21f50917" width="120" height="240" /> |
+| Splash | Login | Signup | Profile |
+| ------ | ----- | ------ | ------- |
+| <img src="https://github.com/user-attachments/assets/4b1a587f-1177-40d6-a02b-289b61f5ee32" width="150" height="300" /> | <img src="https://github.com/user-attachments/assets/9472c0dc-8a8b-4ecb-81a1-14daf4404e01" width="150" height="300" /> | <img src="https://github.com/user-attachments/assets/0570afd7-0268-4cc6-890e-a43a6366e39c" width="150" height="300" /> | <img src="https://github.com/user-attachments/assets/89bb8e3d-a897-4062-89a3-56149b24728e" width="150" height="300" /> |
 
+| Transactions (offline) | Transactions (online) | Add Transactions |
+| ---------------------- | --------------------- | ---------------- |
+| <img src="https://github.com/user-attachments/assets/9c444469-0332-48b8-898e-90921091f4e1" width="150" height="300" /> | <img src="https://github.com/user-attachments/assets/8d9ab25f-8df5-4274-b16d-a7b89646e2a6" width="150" height="300" /> | <img src="https://github.com/user-attachments/assets/bd05abd5-f30e-4917-823d-22233b1203ec" width="150" height="300" /> |
 
 
 ---
